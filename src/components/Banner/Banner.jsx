@@ -12,12 +12,11 @@ const Banner = () => {
 
                             <div className="flex gap-2 ">
                                 <button className="btn bg-blue-500 text-white normal-case px-10"><NavLink to="/">Get Stated</NavLink></button>
-                                <button className="btn border-2 border-blue-500 text-blue-500 text-base normal-case"><NavLink className="flex items-center gap-2" to="/"> Watch Video</NavLink></button>
                             </div>
                         </div>
 
 
-                        <div className="flex-1 relative mt-10">
+                        <div className="flex-1 hidden md:flex relative mt-10">
                             <div>
                                 <img className="md:h-96 lg:h-full md:w-[480px] lg:w-full" src={bannerImg} alt="" />
                             </div>
@@ -26,9 +25,9 @@ const Banner = () => {
                                 
                                 <p className="text-gray-600 pt-2">Online social networking and micro-blogging service that....<NavLink className="text-blue-700 font-semibold" to="/">Read more</NavLink> </p>
                                 <div className="pt-3">
-                                    <button className="btn btn-sm bg-blue-100  text-sm text-blue-900 normal-case"><NavLink className="flex items-center gap-2" to="/">Fulltime</NavLink></button>
-                                    <button className="btn btn-sm bg-green-100 text-sm text-green-800 normal-case mx-3"><NavLink className="flex items-center gap-2" to="/">Remote</NavLink></button>
-                                    <button className="btn btn-sm bg-fuchsia-100  text-sm text-fuchsia-800 normal-case"><NavLink className="flex items-center gap-2" to="/">Anywhere</NavLink></button>
+                                    <button className="btn btn-sm text-sm bg-blue-100  text-blue-900 normal-case"><NavLink className="flex items-center gap-2" to="/">Fulltime</NavLink></button>
+                                    <button className="btn btn-sm text-sm bg-green-100 text-green-800 normal-case mx-3"><NavLink className="flex items-center gap-2" to="/">Remote</NavLink></button>
+                                    <button className="btn btn-sm text-sm bg-fuchsia-100  text-fuchsia-800 normal-case"><NavLink className="flex items-center gap-2" to="/">Anywhere</NavLink></button>
                                 </div>
                             </div>
                         </div>

@@ -1,0 +1,471 @@
+[
+    {
+      "platform": "Microsoft",
+      "sectorType": "Software Development",
+      "title": "Software Developer",
+      "description": "Create and modify computer programs, collaborate with team members, and troubleshoot software issues.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Proficiency in programming languages like Java or C#",
+        "Knowledge of software development methodologies"
+      ],
+      "location": "Redmond, WA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Remote",
+      "picture": "https://i.ibb.co/TB18zMP/Microsoft-logo-2012-svg.pngg",
+      "post_time": "2024-01-26T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "We are a driving force in the software development industry, committed to excellence, innovation, and cutting-edge technology. Join our dynamic team at Microsoft, where your expertise as a Software Developer will play a key role in creating and modifying computer programs. Collaborate with talented team members, troubleshoot software issues, and contribute to the impactful technology that defines Microsoft's presence in the industry.",
+      "positionOverview": "As a Software Developer, you will be at the forefront of shaping the functionality of our digital products. Collaborate closely with cross-functional teams to conceptualize, code, and implement efficient and reliable software solutions. Your role demands proficiency in programming languages like Java or C#, along with a deep understanding of software development methodologies.",
+      "responsibilities": [
+        "Create and modify computer programs to meet project requirements.",
+        "Collaborate with team members to ensure the alignment of software design with project goals.",
+        "Troubleshoot software issues and implement effective solutions.",
+        "Contribute to the continuous improvement of software development processes.",
+        "Stay updated on industry trends and emerging technologies to drive innovation."
+      ],
+      "skills": [
+        "Bachelor's degree in Computer Science or a related field.",
+        "Proficiency in programming languages like Java or C#.",
+        "Knowledge of software development methodologies.",
+        "Strong problem-solving and analytical skills."
+      ],
+      "experience": "3+ years of professional experience in software development.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to be part of cutting-edge software development.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about pushing the boundaries of software development and possess the required skills and vision, we invite you to apply and contribute to the future of technology with us."
+    },
+    {
+      "platform": "Google",
+      "sectorType": "Data Science",
+      "title": "Data Analyst",
+      "description": "Collect, process, and analyze data to help companies make informed business decisions.",
+      "requirements": [
+        "Bachelor's degree in Statistics, Mathematics, or related field",
+        "Experience with data analysis tools like Python or R",
+        "Strong analytical and problem-solving skills"
+      ],
+      "location": "Mountain, CA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Remote",
+      "picture": "https://i.ibb.co/n15XM8q/Google-2015-logo-svg.webp",
+      "post_time": "2024-01-27T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "At the forefront of data-driven decision-making, we are a powerhouse in the field of data science. Join our team at Google, where we are dedicated to collecting, processing, and analyzing data to empower companies in making informed business decisions. As a Data Analyst, you will play a pivotal role in transforming raw data into actionable insights, contributing to Google's commitment to innovation and excellence.",
+      "positionOverview": "As a Data Analyst, you will be instrumental in the analysis of vast datasets to extract meaningful patterns and trends. Collaborate closely with cross-functional teams to understand business needs, design effective data analysis strategies, and present compelling insights. Your role demands expertise in data analysis tools like Python or R, along with strong analytical and problem-solving skills.",
+      "responsibilities": [
+        "Collect, process, and analyze large datasets to extract valuable insights.",
+        "Collaborate with teams to understand business requirements and goals.",
+        "Design and implement effective data analysis strategies.",
+        "Present findings and insights to stakeholders in a clear and compelling manner.",
+        "Stay updated on data analysis tools and techniques to drive continuous improvement."
+      ],
+      "skills": [
+        "Bachelor's degree in Statistics, Mathematics, or a related field.",
+        "Experience with data analysis tools like Python or R.",
+        "Strong analytical and problem-solving skills.",
+        "Excellent attention to detail and data accuracy."
+      ],
+      "experience": "2+ years of professional experience in data analysis.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to cutting-edge data science at Google.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about leveraging data to drive business decisions and possess the required skills and vision, we invite you to apply and be a part of shaping the future of data science with us."
+    },
+    {
+      "platform": "Amazon",
+      "sectorType": "Logistics",
+      "title": "Supply Chain Manager",
+      "description": "Optimize supply chain processes, manage inventory, and ensure timely delivery of products.",
+      "requirements": [
+        "Bachelor's degree in Logistics, Supply Chain Management, or related field",
+        "Experience in supply chain operations",
+        "Strong organizational and communication skills"
+      ],
+      "location": "Seattle, WA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Remote",
+      "picture": "https://i.ibb.co/7bPbLcC/current-logo-600x338.pngg",
+      "post_time": "2024-01-27T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "At the heart of optimizing supply chain processes, we are a key player in the logistics industry. Join our team at Amazon, where we are dedicated to ensuring the timely delivery of products through efficient supply chain management. As a Supply Chain Manager, you will be a driving force in enhancing operational efficiency, managing inventory, and contributing to Amazon's commitment to delivering exceptional customer experiences.",
+      "positionOverview": "As a Supply Chain Manager, you will play a crucial role in optimizing and streamlining our supply chain processes. Collaborate closely with cross-functional teams to manage inventory, ensure timely delivery, and implement effective supply chain strategies. Your role demands strong organizational and communication skills, along with a deep understanding of logistics and supply chain operations.",
+      "responsibilities": [
+        "Optimize supply chain processes to enhance operational efficiency.",
+        "Manage inventory levels to meet demand and minimize excess stock.",
+        "Ensure timely and efficient delivery of products to customers.",
+        "Collaborate with suppliers and logistics partners to improve overall supply chain performance.",
+        "Contribute to the continuous improvement of supply chain strategies."
+      ],
+      "skills": [
+        "Bachelor's degree in Logistics, Supply Chain Management, or a related field.",
+        "Experience in supply chain operations.",
+        "Strong organizational and communication skills.",
+        "Analytical mindset with a focus on problem-solving."
+      ],
+      "experience": "5+ years of professional experience in supply chain management.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to the optimization of supply chain processes at Amazon.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about optimizing supply chain processes and possess the required skills and vision, we invite you to apply and be a part of redefining logistics excellence with us."
+    },
+    {
+      "platform": "Facebook",
+      "sectorType": "Social Media",
+      "title": "Social Media Manager",
+      "description": "Develop and implement social media strategies, create engaging content, and analyze performance metrics.",
+      "requirements": [
+        "Bachelor's degree in Marketing, Communications, or related field",
+        "Experience in social media management",
+        "Creative thinking and excellent communication skills"
+      ],
+      "location": "Menlo Park, CA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Remote",
+      "post_time": "2024-01-28T20:10",
+      "deadline": "2024-06-27T20:10",
+      "picture": "https://i.ibb.co/ZztZnxV/Facebook-Logo-2019.png",
+      "aboutUs": "At the forefront of shaping digital presence, we are a key player in the social media landscape. Join our team at Facebook, where we are dedicated to creating engaging content and implementing effective social media strategies. As a Social Media Manager, you will be a driving force in developing and executing impactful social media campaigns, contributing to Facebook's commitment to connecting people and fostering community.",
+      "positionOverview": "As a Social Media Manager, you will play a pivotal role in shaping the digital narrative of our brand. Collaborate closely with cross-functional teams to develop and implement creative social media strategies, create engaging content, and analyze performance metrics. Your role demands creative thinking, excellent communication skills, and a passion for connecting with audiences through social media.",
+      "responsibilities": [
+        "Develop and implement creative social media strategies to enhance brand presence.",
+        "Create engaging and shareable content across various social media platforms.",
+        "Analyze performance metrics and derive insights to optimize social media campaigns.",
+        "Collaborate with internal and external teams to align social media efforts with overall marketing goals.",
+        "Stay updated on social media trends and emerging technologies to drive continuous improvement."
+      ],
+      "skills": [
+        "Bachelor's degree in Marketing, Communications, or a related field.",
+        "Experience in social media management.",
+        "Creative thinking and excellent communication skills.",
+        "Ability to analyze and interpret social media metrics."
+      ],
+      "experience": "3+ years of professional experience in social media management.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to shape the digital presence of a leading social media platform.",
+        "Collaborative and creative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about shaping digital narratives and possess the required skills and vision, we invite you to apply and be a part of defining the future of social media at Facebook."
+    },
+    {
+      "platform": "Apple",
+      "sectorType": "Hardware Engineering",
+      "title": "Hardware Engineer",
+      "description": "Design and develop hardware components for electronic devices, conduct tests, and collaborate with cross-functional teams.",
+      "requirements": [
+        "Bachelor's or Master's degree in Electrical Engineering or related field",
+        "Experience in hardware design",
+        "Knowledge of CAD tools"
+      ],
+      "location": "Cupertino, CA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Remote",
+      "picture": "https://i.ibb.co/Hx9H6Xs/Apple-Logo.png",
+      "post_time": "2024-01-25T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "At the forefront of hardware innovation, we are a key player in the field of hardware engineering. Join our team at Apple, where we are dedicated to designing and developing cutting-edge hardware components for electronic devices. As a Hardware Engineer, you will be a driving force in conducting tests, collaborating with cross-functional teams, and contributing to Apple's commitment to delivering exceptional and groundbreaking technology.",
+      "positionOverview": "As a Hardware Engineer, you will play a crucial role in the design and development of hardware components for our electronic devices. Collaborate closely with cross-functional teams to conceptualize, conduct tests, and implement innovative hardware solutions. Your role demands expertise in hardware design, knowledge of CAD tools, and a passion for pushing the boundaries of technology.",
+      "responsibilities": [
+        "Design and develop innovative hardware components for electronic devices.",
+        "Conduct tests and experiments to ensure the reliability and performance of hardware solutions.",
+        "Collaborate with cross-functional teams, including software engineers and product designers.",
+        "Stay updated on hardware trends and emerging technologies to drive continuous improvement.",
+        "Contribute to the development of groundbreaking technology for Apple's electronic devices."
+      ],
+      "skills": [
+        "Bachelor's or Master's degree in Electrical Engineering or a related field.",
+        "Experience in hardware design.",
+        "Knowledge of CAD tools for designing and testing hardware components.",
+        "Strong problem-solving and analytical skills."
+      ],
+      "experience": "3+ years of professional experience in hardware engineering.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to groundbreaking hardware technology at Apple.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about pushing the boundaries of hardware technology and possess the required skills and vision, we invite you to apply and be a part of shaping the future of electronic devices with Apple."
+    },
+    {
+      "platform": "Adobe Illustrator",
+      "sectorType": "Design",
+      "title": "UI Designer",
+      "description": "Develop and maintain software applications, write code, and troubleshoot problems.",
+      "requirements": [
+        "Bachelor's degree in Computer Science",
+        "Programming skills in Java, Python, or C++",
+        "Experience with software development life cycle"
+      ],
+      "location": "Various",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Onsite",
+      "picture": "https://i.ibb.co/Yhk1y06/Illustrator-Logo.png",
+      "post_time": "2024-01-26T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "We are a creative powerhouse within the fintech industry, crafting user-centric experiences to redefine digital design. Rooted in innovation, we seek a UI Designer to join our dynamic team at the forefront of transforming financial advisory interfaces. Embrace the opportunity to blend artistry with technology in a collaborative and cutting-edge environment.",
+      "positionOverview": "As a UI Designer, you will be a pivotal force in shaping the visual aesthetics of our digital products. Collaborate closely with cross-functional teams to conceptualize, design, and implement intuitive and visually stunning user interfaces. Your role demands proficiency in design tools, an eye for detail, and a passion for creating seamless user experiences.",
+      "responsibilities": [
+        "Lead the design and implementation of user interfaces for our financial advisory software.",
+        "Collaborate with development teams to ensure the alignment of visual design intent with technical feasibility.",
+        "Contribute to the creation and maintenance of design systems for consistent user experiences.",
+        "Iterate on designs based on user feedback and testing.",
+        "Stay updated on design trends and emerging technologies to drive continuous improvement."
+      ],
+      "skills": [
+        "Proven experience as a UI Designer with a strong portfolio showcasing design proficiency.",
+        "Expertise in design tools such as Adobe XD, Sketch, or Figma.",
+        "Understanding of UX principles and best practices.",
+        "Strong communication skills to articulate design concepts and rationale."
+      ],
+      "experience": "3+ years of professional experience in UI/UX design.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to contribute to revolutionary fintech design.",
+        "Collaborative and creative work environment.",
+        "Professional development opportunities.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about redefining user experiences in the fintech sector and possess the required skills and vision, we invite you to apply and shape the future of digital design with us."
+    },
+    {
+      "platform": "Google",
+      "sectorType": "Technology",
+      "title": "Software Engineer",
+      "description": "Design, develop, and maintain high-quality software solutions for diverse applications.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Proficient in languages such as Java, Python, or Ruby",
+        "Experience with agile development methodologies"
+      ],
+      "location": "Mountain, CA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Onsite",
+      "picture": "https://i.ibb.co/n15XM8q/Google-2015-logo-svg.webp",
+      "post_time": "2024-01-27T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "Join our innovative team at the forefront of technology. We are committed to creating cutting-edge solutions that impact millions of users worldwide.",
+      "positionOverview": "As a Software Engineer, you will play a key role in designing and implementing software solutions. Collaborate with cross-functional teams to deliver high-performance and scalable applications.",
+      "responsibilities": [
+        "Develop and maintain software applications.",
+        "Collaborate with product managers to define software requirements.",
+        "Conduct code reviews and ensure code quality standards.",
+        "Participate in the full software development lifecycle."
+      ],
+      "skills": [
+        "Proven experience as a Software Engineer.",
+        "Strong problem-solving and analytical skills.",
+        "Excellent communication and teamwork abilities."
+      ],
+      "experience": "2+ years of professional experience in software development.",
+      "perks": [
+        "Competitive salary and comprehensive benefits.",
+        "Opportunity for career growth and advancement.",
+        "Dynamic and collaborative work environment.",
+        "Flexible work schedule."
+      ],
+      "application": "If you are passionate about technology and thrive in a fast-paced environment, apply now to be part of our exciting journey!"
+    },
+    {
+      "platform": "Behance",
+      "sectorType": "Creative",
+      "title": "Graphic Designer",
+      "description": "Create visually appealing designs for print and digital media, ensuring brand consistency.",
+      "requirements": [
+        "Bachelor's degree in Graphic Design or related field",
+        "Proficiency in Adobe Creative Suite",
+        "Strong portfolio showcasing design expertise"
+      ],
+      "location": "New York, NY",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Onsite",
+      "picture": "https://i.ibb.co/KbyMXyy/2560px-Behance-logo-svg.png",
+      "post_time": "2024-01-26T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "We are a creative studio dedicated to delivering captivating designs that resonate with our clients and their target audience. Join us and be part of a team that transforms ideas into visually stunning reality.",
+      "positionOverview": "As a Graphic Designer, you will be responsible for creating engaging visual content that communicates our clients' messages effectively. Collaborate with clients and internal teams to bring creative visions to life.",
+      "responsibilities": [
+        "Design and produce high-quality graphics for various platforms.",
+        "Collaborate with clients to understand their design needs.",
+        "Maintain brand consistency across all design projects.",
+        "Stay updated on design trends and industry advancements."
+      ],
+      "skills": [
+        "Proven experience as a Graphic Designer.",
+        "Expertise in Adobe Creative Suite (Photoshop, Illustrator, InDesign).",
+        "Strong creative and conceptual thinking."
+      ],
+      "experience": "3+ years of professional experience in graphic design.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to work on diverse and exciting projects.",
+        "Collaborative and inspiring work environment.",
+        "Professional development opportunities."
+      ],
+      "application": "If you have a passion for visual storytelling and are ready to contribute to our creative journey, apply now!"
+    },
+    {
+      "platform": "LinkedIn",
+      "sectorType": "Data Science",
+      "title": "Data Scientist",
+      "description": "Apply statistical and machine learning techniques to analyze and interpret complex data sets.",
+      "requirements": [
+        "Master's or PhD in Data Science, Statistics, or related field",
+        "Proficiency in programming languages like Python or R",
+        "Experience with data visualization tools (e.g., Tableau)"
+      ],
+      "location": "San Francisco, CA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Onsite",
+      "picture": "https://i.ibb.co/QN1B3Rb/Linked-In-Logo-svg.png",
+      "post_time": "2024-01-25T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "Join our data-driven team as we leverage the power of data to solve complex problems and drive informed decision-making. We are committed to innovation and excellence in the field of data science.",
+      "positionOverview": "As a Data Scientist, you will work on challenging projects, extracting valuable insights from data to guide business strategies. Collaborate with cross-functional teams to implement data-driven solutions.",
+      "responsibilities": [
+        "Analyze large and complex data sets using statistical methods.",
+        "Develop machine learning models to predict trends and outcomes.",
+        "Create data visualizations to communicate findings effectively.",
+        "Collaborate with business stakeholders to understand data requirements."
+      ],
+      "skills": [
+        "Proven experience as a Data Scientist.",
+        "Strong programming skills in Python or R.",
+        "Solid understanding of statistical methods and machine learning algorithms."
+      ],
+      "experience": "4+ years of professional experience in data science.",
+      "perks": [
+        "Competitive salary and comprehensive benefits.",
+        "Opportunity to work on cutting-edge data science projects.",
+        "Collaborative and intellectually stimulating work environment.",
+        "Professional development opportunities."
+      ],
+      "application": "If you have a passion for turning data into actionable insights and are excited about the future of data science, apply now!"
+    },
+    {
+      "platform": "Indeed",
+      "sectorType": "Marketing",
+      "title": "Marketing Manager",
+      "description": "Develop and execute marketing strategies to drive brand awareness and lead generation.",
+      "requirements": [
+        "Bachelor's degree in Marketing or related field",
+        "Proven experience in developing and implementing marketing plans",
+        "Strong analytical and project management skills"
+      ],
+      "location": "Chicago, IL",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Onsite",
+      "picture": "https://i.ibb.co/TbT74Y9/Indeed-logo.png",
+      "post_time": "2024-01-27T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "Join our dynamic marketing team and play a key role in shaping the success of our brand. We value creativity, strategic thinking, and a passion for driving results in a fast-paced environment.",
+      "positionOverview": "As a Marketing Manager, you will lead the development and execution of marketing initiatives. Collaborate with cross-functional teams to drive brand awareness, engage target audiences, and generate leads through innovative campaigns.",
+      "responsibilities": [
+        "Develop and implement comprehensive marketing plans.",
+        "Coordinate and execute online and offline marketing campaigns.",
+        "Analyze marketing data to measure campaign effectiveness.",
+        "Collaborate with design and content teams for collateral creation."
+      ],
+      "skills": [
+        "Proven experience as a Marketing Manager.",
+        "Strong project management and analytical skills.",
+        "Excellent communication and collaboration abilities."
+      ],
+      "experience": "5+ years of professional experience in marketing.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to lead and shape marketing strategies.",
+        "Collaborative and dynamic work environment.",
+        "Professional development opportunities."
+      ],
+      "application": "If you are a strategic thinker with a passion for driving marketing success, we invite you to apply and be part of our exciting journey!"
+    },
+    {
+      "platform": "GitHub Jobs",
+      "sectorType": "Technology",
+      "title": "Frontend Developer",
+      "description": "Build responsive and user-friendly web applications using modern frontend technologies.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Proficient in HTML, CSS, and JavaScript",
+        "Experience with frontend frameworks (e.g., React, Angular)"
+      ],
+      "location": "Seattle, WA",
+      "salaryRange": {
+        "min": 100000,
+        "max": 120000
+      },
+      "jobType": "Hybrid",
+      "picture": "https://i.ibb.co/48CMCjN/Git-Hub-logo.png",
+      "post_time": "2024-01-24T20:10",
+      "deadline": "2024-06-27T20:10",
+      "aboutUs": "Join our dynamic development team focused on creating intuitive and visually appealing web applications. We value innovation, collaboration, and a passion for delivering exceptional user experiences.",
+      "positionOverview": "As a Frontend Developer, you will play a key role in building and enhancing user interfaces for our web applications. Collaborate with backend developers and designers to create seamless and responsive frontend solutions.",
+      "responsibilities": [
+        "Develop and maintain responsive web applications.",
+        "Collaborate with designers to implement visually appealing UIs.",
+        "Optimize applications for maximum speed and scalability.",
+        "Conduct code reviews to ensure code quality and adherence to best practices."
+      ],
+      "skills": [
+        "Proven experience as a Frontend Developer.",
+        "Proficiency in HTML, CSS, and JavaScript.",
+        "Experience with frontend frameworks like React or Angular."
+      ],
+      "experience": "3+ years of professional experience in frontend development.",
+      "perks": [
+        "Competitive salary and benefits package.",
+        "Opportunity to work with cutting-edge frontend technologies.",
+        "Collaborative and innovative work environment.",
+        "Professional development opportunities."
+      ],
+      "application": "If you are passionate about building user-friendly web applications and thrive in a collaborative development environment, apply now to be part of our exciting projects!"
+    }
+]
