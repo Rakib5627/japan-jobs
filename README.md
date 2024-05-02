@@ -19,7 +19,7 @@ The project uses the following APIs:
 
 Usage:
 To run the project locally, follow these steps:
-1. Clone the repository from GitHub: https://github.com/your-username/job-portal.git
+1. Clone the repository from GitHub: https://github.com/your-username/japan-jobs.git
 2. Navigate to the project directory: cd job-portal
 3. Install dependencies: npm install
 4. Start the development server: npm start
